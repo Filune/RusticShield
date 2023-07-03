@@ -1,0 +1,4 @@
+app/src/main
+app/target/
+app/Cargo.lock
+app/src/f.txt
